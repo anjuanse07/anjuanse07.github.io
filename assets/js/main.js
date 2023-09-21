@@ -1,6 +1,6 @@
 /* animasi tulisan backspace */
 var typed = new Typed(".typing",{
-    strings:["", "an Undergraduate Electrical Engineer" ,"a Graphic Designer", "a Web Designer","a Multidisciplinary Engineer", "an AI Enthusiast"],
+    strings:["", "an Undergraduate Electrical Engineer" ,"a ML and AI Enthusiast", "a Web Designer","a Multidisciplinary Engineer"],
     typeSpeed:70,
     BackSpeed:50,
     loop:true
