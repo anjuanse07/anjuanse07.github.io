@@ -699,9 +699,15 @@ h3.my-profession{
 }
 
 .portfolio .portfolio-item{
+    display: flex;
     flex: 0 0 33.33%;
     max-width: 33.33%;
     margin-bottom: 30px;
+    transition: 0.5s ease-in-out;
+}
+
+.portfolio .portfolio-item:hover{
+    transform: translateY(-10px);
 }
 
 .portfolio .portfolio-item-inner{
