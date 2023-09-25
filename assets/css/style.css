@@ -707,7 +707,7 @@ h3.my-profession{
 }
 
 .portfolio .portfolio-item:hover{
-    transform: translateY(-10px);
+    transform: translateY(-15px);
 }
 
 .portfolio .portfolio-item-inner{
